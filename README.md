@@ -1,4 +1,4 @@
-# ✈️ Flight Price Prediction Using XGBoost
+# ✈️ Flight Price Prediction
 
 This project uses machine learning techniques—specifically, the Gradient Boosting Regressor (with scikit-learn) and a user-friendly Gradio interface—to predict the price of flights based on various features such as airline, source/destination, departure/arrival time, stops, class, duration, and days left to departure.
 
